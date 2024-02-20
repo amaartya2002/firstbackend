@@ -1,0 +1,20 @@
+{
+  "name": "deploy-backend",
+  "version": "1.0.0",
+  "description": "simple course to deploy backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "backend",
+    "deploy"
+  ],
+  "author": "amartya kumar",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.18.2"
+  }
+}
